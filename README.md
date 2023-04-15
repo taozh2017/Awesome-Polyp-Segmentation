@@ -6,7 +6,7 @@ Will collect polyp segmentastion models.
     <img src="./imgs/COD-Logo.png"/> <br />
 </p>
 
-# <p align=center>`Awesome List for Camouflaged Object Detection (COD)`
+# <p align=center>`Awesome List for Polyp Segmentation`
 
 ![Badge](https://img.shields.io/badge/-As%20awesome%20as%20you%20think!-red)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -14,7 +14,7 @@ Will collect polyp segmentastion models.
 ![GitHub issues](https://img.shields.io/github/issues/GewelsJI/SINet-V2)
 ![GitHub stars](https://img.shields.io/github/stars/GewelsJI/SINet-V2)
 
-This awesome list is under construction. If you have anything to recommend or any suggestions, please feel free to contact us via e-mail (gepengai.ji@gmail) or directly push a PR. 
+This awesome list is under construction. If you have anything to recommend or any suggestions, please feel free to contact us via e-mail (taozhou.ji@gmail) or directly push a PR. 
 
 < **Last updated: Nov/12/2022** >
 
@@ -22,25 +22,25 @@ This awesome list is under construction. If you have anything to recommend or an
 ##  1. Content
 
 
-- [`Awesome List for Camouflaged Object Detection (COD)`](#awesome-list-for-camouflaged-object-detection-cod)
+- [`Awesome List for Polyp Segmentation`](#awesome-list-for-polyp-segmentation)
 	- [1. Content](#1-content)
 	- [2. Paper List](#2-paper-list)
 		- [2.1. Datasets \& Benchmarks](#21-datasets--benchmarks)
-			- [2.1.1. Video-level COD](#211-video-level-cod)
-			- [2.1.2. Image-level COD](#212-image-level-cod)
-		- [2.2. Camouflaged Object Detection (COD)](#22-camouflaged-object-detection-cod)
+			- [2.1.1. Image-level Polyp](#211-video-level-cod)
+			- [2.1.2. Video-level Polyp](#212-image-level-cod)
+		- [2.2. Polyp Segmentation] 
 			- [2.2.1. YEAR 2023](#221-year-2023)
 			- [2.2.2. YEAR 2022](#222-year-2022)
 			- [2.2.3. YEAR 2021](#223-year-2021)
 			- [2.2.4. Before YEAR 2020](#224-before-year-2020)
-		- [2.3. Camouflaged Instance Segmentation (CIS)](#23-camouflaged-instance-segmentation-cis)
-		- [2.4. Video Camouflaged Object Detection (VCOD)](#24-video-camouflaged-object-detection-vcod)
+		- [2.3. Video Polyp Segmentation](#23-camouflaged-instance-segmentation-cis)
+		
 
 ##  2. Paper List
 
 ###  2.1. Datasets & Benchmarks
 
-####  2.1.1. Video-level COD
+####  2.1.1. Image-level polyp segmentation
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
@@ -48,7 +48,7 @@ This awesome list is under construction. If you have anything to recommend or an
 [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) |
 
 
-####  2.1.2. Image-level COD
+####  2.1.2. Video-level polyp segmentation
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
