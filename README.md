@@ -3,7 +3,7 @@
 Will collect polyp segmentastion models.
 
 <p align="center">
-    <img src="./imgs/COD-Logo.png"/> <br />
+    <img src="polyp.png"/> <br />
 </p>
 
 # <p align=center>`Awesome List for Polyp Segmentation`
