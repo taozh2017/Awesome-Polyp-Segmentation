@@ -63,7 +63,6 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Year** | **Publication** | **Title**                                                    |  **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-
 | 2023 | PR | Cross-level Feature Aggregation Network for Polyp Segmentation <br><sup><sub>*Tao Zhou, Yi Zhou, Kelei He, Chen Gong, Jian Yang, Huazhu Fu, Dinggang Shen*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323002558)/[Code](https://github.com/taozh2017/CFANet)
 	
 
