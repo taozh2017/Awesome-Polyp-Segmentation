@@ -84,13 +84,13 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2022 | PRANet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	    
+| 2022 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	    
 
 
 ###  2.3. Video Polyp Segmentation
 
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2022 | PRANet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	
+| 2022 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	
 
 
