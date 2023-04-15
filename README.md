@@ -14,7 +14,7 @@ Will collect polyp segmentastion models.
 
 This awesome list is under construction. If you have anything to recommend or any suggestions, please feel free to contact us via e-mail (taozhou.ji@gmail) or directly push a PR. 
 
-< **Last updated: Nov/12/2022** >
+< **Last updated: 15/04/2023** >
 
 
 ##  1. Content
