@@ -44,7 +44,7 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
-[CVCClinicDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper]([https://arxiv.org/abs/2203.07363](https://www.sciencedirect.com/science/article/pii/S0895611115000567)) |
+[CVCClinicDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
 [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) |
 
 
