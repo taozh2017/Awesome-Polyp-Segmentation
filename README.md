@@ -68,22 +68,22 @@ This awesome list is under construction. If you have anything to recommend or an
 
 ####  2.2.2. YEAR 2022
 
-| **Year** | **Model** | **Publication** | **Title**                                                    |  **Links**                                                    |
-| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
+| :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2022 | BSCA-Net | PR | BSCA-Net: Bit Slicing Context Attention Network for Polyp Segmentation <br><sup><sub>*Yi Lin, Jichun Wu, Guobao Xiao, Junwen Guo, Geng Chen, Jiayi Ma*</sub></sup> | [Paper](https://guobaoxiao.github.io/papers/PR_2022_BSCA.pdf)/Code	
 	
 
 
 ####  2.2.3. YEAR 2021
 
-| **Year** | **Model** | **Publication** | **Title**                                                    |  **Links**                                                    |
-| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
+| :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2021 | MSNet | MICCAI | Automatic Polyp Segmentation via Multi-scale Subtraction Network <br><sup><sub>*Xiaoqi Zhao, Lihe Zhang, Huchuan Lu *</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_12)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet)	
 
 ####  2.2.4. Before YEAR 2020 
 
-| **Year** | **Model** | **Publication** | **Title**                                                    | **Links**                                                    |
-| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
+| :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2022 | PRANet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	    
 
 
