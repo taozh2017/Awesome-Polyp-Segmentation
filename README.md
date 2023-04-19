@@ -69,7 +69,7 @@ This awesome list is under construction. If you have anything to recommend or an
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2022 | BSCA-Net | PR | BSCA-Net: Bit Slicing Context Attention Network for Polyp Segmentation <br><sup><sub>*Yi Lin, Jichun Wu, Guobao Xiao, Junwen Guo, Geng Chen, Jiayi Ma*</sub></sup> | [Paper](https://guobaoxiao.github.io/papers/PR_2022_BSCA.pdf)/Code/Seg-Maps	
-| 2022 | TRFRNet(UDA) | MICCAI | Task-Relevant Feature Replenishment for Cross-Centre Polyp Segmentation <br><sup><sub>*Yutian Shen, YeLu, Xiao Jia, FanBai, Max Q.-H. Meng*</sub></sup> | [Paper](https://link.springer.com/10.1007/978-3-031-16440-8_57)/Code/Seg-Maps	
+| 2022 | TRFRNet(UDA) | MICCAI | Task-Relevant Feature Replenishment for Cross-Centre Polyp Segmentation <br><sup><sub>*Yutian Shen, Ye Lu, Xiao Jia, Fan Bai, Max Q.-H. Meng*</sub></sup> | [Paper](https://link.springer.com/10.1007/978-3-031-16440-8_57)/Code/Seg-Maps	
 
 
 ####  2.2.3. YEAR 2021
@@ -78,6 +78,7 @@ This awesome list is under construction. If you have anything to recommend or an
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2021 | MSNet | MICCAI | Automatic Polyp Segmentation via Multi-scale Subtraction Network <br><sup><sub>*Xiaoqi Zhao, Lihe Zhang, Huchuan Lu *</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_12)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet)/Seg-Maps	
 | 2021 | MPA-DA(UDA) | JBHI | Mutual-Prototype Adaptation for Cross-Domain Polyp Segmentation <br><sup><sub>*Chen Yang, Xiaoqing Guo, Meilu Zhu, Bulat Ibragimov, Yixuan Yuan*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9423517/)/[Code](https://github.com/CityU-AIM-Group/MPA-DA)/Seg-Maps
+| 2021 | C2FNet | IJCAI | Context-aware Cross-level Fusion Network for Camouflaged Object Detection <br><sup><sub>*Yujia Sun, Geng Chen, Tao Zhou, Yi Zhang, Nian Liu*</sub></sup> | [Paper](https://www.ijcai.org/proceedings/2021/0142.pdf)/[Code](https://github.com/thograce/C2FNet)/Seg-Maps
 
 ####  2.2.4. Before YEAR 2020 
 
