@@ -97,16 +97,16 @@ This awesome list is under construction. If you have anything to recommend or an
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
 | 2020 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)/Seg-Maps
-| 2019 | SFA | MICCAI | Selective Feature Aggregation Network with Area-Boundary Constraints for Polyp Segmentation <br><sup><sub>*Yuqi Fang, Cheng Chen, Yixuan Yuan, Kai-yu Tong*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_34)/[Code](https://github.com/Yuqi-cuhk/Polyp-Seg)/Seg-Maps
 | 2020 | ACSNet | MICCAI | Adaptive Context Selection for Polyp Segmentation <br><sup><sub>*Ruifei Zhang, Guanbin Li, Zhen Li, Shuguang Cui, Dahong Qian, Yizhou Yu*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_25)/[Code](https://github.com/ReaFly/ACSNet)/Seg-Maps
+| 2020 | ThresholdNet | TMI | Learn to Threshold: ThresholdNet With Confidence-Guided Manifold Mixup for Polyp Segmentation <br><sup><sub>*Xiaoqing Guo, Chen Yang, Yajie Liu, Yixuan Yuan*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9305717)/[Code](https://github.com/Guo-Xiaoqing/ThresholdNet)/Seg-Maps
 | 2019 | ResUNet++ | ISM | ResUNet++: An Advanced Architecture for Medical Image Segmentation <br><sup><sub>*Debesh Jha, Pia H. Smedsrud, Michael A. Riegler, Dag Johansen, Thomas de Lange, Pal Halvorsen, Havard D. Johansen*</sub></sup> | [Paper](https://arxiv.org/pdf/1911.07067.pdf)/[Code](https://github.com/DebeshJha/ResUNetPlusPlus)/Seg-Maps
-
+| 2019 | SFA | MICCAI | Selective Feature Aggregation Network with Area-Boundary Constraints for Polyp Segmentation <br><sup><sub>*Yuqi Fang, Cheng Chen, Yixuan Yuan, Kai-yu Tong*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_34)/[Code](https://github.com/Yuqi-cuhk/Polyp-Seg)/Seg-Maps
 
 
 ###  2.3. Video Polyp Segmentation
 
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2022 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu*, Jianbing Shen*, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	
+| 2022 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)	
 
 
