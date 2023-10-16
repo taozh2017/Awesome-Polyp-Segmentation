@@ -42,17 +42,24 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
-[CVCClinicDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
-[CVC-ColonDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
-[Kvasir](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
+[ETIS-LaribPolypDB](https://link.springer.com/article/10.1007/s11548-013-0926-3) | 2014 | IJCARS | [Paper](https://link.springer.com/article/10.1007/s11548-013-0926-3) |
+[CVC-ColonDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | PR | [Paper](https://link.springer.com/article/10.1007/s11548-013-0926-3) |
+[CVC-ClinicDB](https://polyp.grand-challenge.org/CVCClinicDB/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
+[Kvasir](https://datasets.simula.no/kvasir/) | 2017 | ACM | [Paper](https://dl.acm.org/doi/abs/10.1145/3083187.3083212) |
+[CVC-300](https://github.com/jbernoz/deeppolyp) | 2017 |JHE | [Paper](https://www.hindawi.com/journals/jhe/2017/4037190/)|
+[CVC-EndoSceneStill](https://pages.cvc.uab.es/CVC-Colon/index.php/databases/cvc-endoscenestill/)| 2017 |JHE | [Paper](https://www.hindawi.com/journals/jhe/2017/4037190/)|
+[Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)| 2020 | MMM | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_37)|
+[PolypGen](https://github.com/sharib-vision/PolypGen-Benchmark) | 2021 | SCI DATA | [Paper](https://arxiv.org/abs/2106.04463) |
 
 
 ####  2.1.2. Video-level polyp segmentation
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
-[CVCClinicDB](https://xueliancheng.github.io/SLT-Net-project/) | 2015 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
-
+[CVC-ClinicVideoDB](https://endovissub2017-giana.grand-challenge.org/) | 2017 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
+[ASU-Mayo Clinic Colonoscopy Video]() | 
+[Kvasir-capsule](Kvasir-capsule, a video capsule endoscopy dataset)|
+[SUN-SEG](https://github.com/GewelsJI/VPS)| 2022 | MIR | [Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y)|
 
 ###  2.2. Polyp Segmentation
 
@@ -79,6 +86,13 @@ This awesome list is under construction. If you have anything to recommend or an
 | 2023 | EMTS-Net | JBHI | An Efficient Multi-Task Synergetic Network for Polyp Segmentation and Classification <br><sup><sub>*Miao Wang, Xingwei An, Zhengcun Pei, Ning Li, Li Zhang, Gang Liu and Dong Ming*</sub></sup> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10120931)/Code/Seg-Maps
 | 2023 | unnamed | ICASSP | Semantic Memory Guided Image Representation for Polyp Segmentation <br><sup><sub>*Zijin Yin, Runpu Wei, Kongming Liang , Yiyang Lin, Wei Liu, Zhanyu Ma, Min Min, Jun Guo*</sub></sup> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094302)/Code/Seg-Maps
 | 2023 | DilatedSegNet | MMM | DilatedSegNet: A Deep Dilated Segmentation Network for Polyp Segmentation <br><sup><sub>*Nikhil Kumar Tomar, Debesh Jha, Ulas Bagci*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_26)/[Code](https://github.com/nikhilroxtomar/DilatedSegNet)/Seg-Maps
+| 2023 | CAFE-Net | Expert Syst. Appl. | CAFE-Net: Cross-Attention and Feature Exploration Network for polyp segmentation <br><sup><sub>Guoqi Liu, Sheng Yao, Dong Liu, Baofang Chang , Zongyu Chen, Jiajia Wang, Jiangqi Wei</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742302256X)/Code/Seg-Maps
+| 2023 | MMS-Net | Eng Appl Artif Intell | Simple and robust depth-wise cascaded network for polyp segmentation <br><sup><sub>Tariq M. Khan, Muhammad Arsalan, Imran Razzak, Erik Meijering</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197623002075)/Code/Seg-Maps
+| 2023 | CRCNet | Biomed Signal Process Contro | CRCNet: Global-local context and multi-modality cross attention for polyp segmentation <br><sup><sub>Jianbo Zhu, Mingfeng Ge, Zhimin Chang, Wenfei Dong</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809423000265)/Code/Seg-Maps
+| 2023 | CoInNet | IEEE TMI | CoInNet: A Convolution-Involution Network with a Novel Statistical Attention for Automatic Polyp Segmentation <br><sup><sub>Samir Jain; Rohan Atale; Anubhav Gupta; Utkarsh Mishra; Ayan Seal; Aparajita Ojha; Joanna Kuncewicz; Ondrej Krejcar</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10266385)/Code/Seg-Maps
+| 2023 | PSNet | SR | Dual encoder–decoder-based deep polyp segmentation network for colonoscopy images <br><sup><sub>John Lewis, Young-Jin Cha,Jongho Kim</sub></sup> | [Paper](https://www.nature.com/articles/s41598-023-28530-2)/Code/Seg-Maps
+| 2023 | RT-Net | NPL | RT-Net: Region-Enhanced Attention Transformer Network for Polyp Segmentation <br><sup><sub>Yilin Qin,Haiying Xia,Shuxiang Song </sub></sup> | [Paper](https://link.springer.com/article/10.1007/s11063-023-11405-y)/Code/Seg-Maps
+
 
 	
 ####  2.2.2. YEAR 2022
@@ -92,7 +106,6 @@ This awesome list is under construction. If you have anything to recommend or an
 | 2022 | SSFormer | MICCAI | Stepwise Feature Fusion: Local Guides Global <br><sup><sub>*Jinfeng Wang, Qiming Huang, Feilong Tang, Jia Meng, Jionglong Su, Sifan Song*</sub></sup> | [Paper](https://doi.org/10.1007/978-3-031-16437-8_11)/[Code](https://github.com/Qiming-Huang/ssformer)/Seg-Maps
 | 2022 | BoxPolyp | MICCAI | BoxPolyp: Boost Generalized Polyp Segmentation Using Extra Coarse Bounding Box Annotations <br><sup><sub>*Jun Wei, Yiwen Hu, Guanbin Li, Shuguang Cui, S. Kevin Zhou, Zhen Li*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_7)/Code/Seg-Maps
 | 2022 | PPFormer | MICCAI | Using Guided Self-Attention with Local Information for Polyp Segmentation <br><sup><sub>*Linghan Cai, Meijing Wu, Lijiang Chen, Wenpei Bai, Min Yang, Shuchang Lyu, Qi Zhao *</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_60)/Code/Seg-Maps
-| 2022 | SSTAN(Semi-Supervised) | MICCAI | Semi-supervised Spatial Temporal Attention Network for Video Polyp Segmentation <br><sup><sub>*Xinkai Zhao1, Zhenhua Wu, Shuangyi Tan, De-Jun Fan, Zhen Li, Xiang Wan, Guanbin Li*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_44)/[Code](https://github.com/ShinkaiZ/SSTAN)/Seg-Maps
 | 2022 | MSRF-Net | JBHI | MSRF-Net: A Multi-Scale Residual Fusion Network for Biomedical Image Segmentation <br><sup><sub>*Abhishek Srivastava, Debesh Jha, Sukalpa Chanda, Umapada Pal, Håvard D. Johansen, Dag Johansen, Michael A. Riegler, Sharib Ali, Pål Halvorsen*</sub></sup> | [Paper](https://arxiv.org/pdf/2105.07451v2.pdf)/[Code](https://github.com/NoviceMAn-prog/MSRF-Net)/Seg-Maps
 | 2022 | BCNet | JBHI | Boundary Constraint Network With Cross Layer Feature Integration for Polyp Segmentation <br><sup><sub>*Guanghui Yue, Wanwan Han, Bin Jiang, Tianwei Zhou, Runmin Cong, Tianfu Wang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772424)/Code/Seg-Maps
 | 2022 | DCRNet | ISBI | Duplex contextual relation network for polyp segmentation <br><sup><sub>*Zijin Yin, Kongming Liang, Zhanyu Ma, Jun Guo*</sub></sup> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9761402)/[Code](https://github.com/PRIS-CV/DCRNet)/Seg-Maps
@@ -112,8 +125,13 @@ This awesome list is under construction. If you have anything to recommend or an
 | 2022 | SwinPA-Net | TNNLS | SwinPA-Net: Swin Transformer-Based Multiscale Feature Pyramid Aggregation Network for Medical Image Segmentation <br><sup><sub>*Hao Du, Jiazheng Wang, Min Liu, Yaonan Wang, Erik Meijering*</sub></sup> | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895210)/Code/Seg-Maps
 | 2022 | HSNet | CompBioMed | HSNet: A hybrid semantic network for polyp segmentation <br><sup><sub>*Wenchao Zhang, Chong Fu, Yu Zheng, Fangyuan Zhang, Yanli Zhao, Chiu-Wing Sham*</sub></sup> | [Paper](https://reader.elsevier.com/reader/sd/pii/S0010482522008812?token=EE7BA1875E01966A91E578639EFD828DDF0DC70EB31040C21B84577ACCE553691F6A00C24E0031488E2F0D28C583ECE0&originRegion=us-east-1&originCreation=20230518091751)/[Code](https://github.com/baiboat/HSNet)/Seg-Maps
 | 2022 | MSRAformer | CompBioMed | MSRAformer: Multiscale spatial reverse attention network for polyp segmentation <br><sup><sub>*Cong Wu, Cheng Long, Shijun Li, Junjie Yang, Fagang Jiang, Ran Zhou*</sub></sup> | [Paper](https://reader.elsevier.com/reader/sd/pii/S0010482522009829?token=A592C64A25DCBB2D9EF047355807B6E491D19B8D4788C1F7EE939FD430DF3933A14CA70EA670E52F24B87E33D3FDACDA&originRegion=us-east-1&originCreation=20230518090647)/[Code](https://github.com/ChengLong1222/MSRAformer-main)/Seg-Maps
-
-	
+| 2022 | SwinE-Net | JCR | SwinE-Net: hybrid deep learning approach to novel polyp segmentation using convolutional neural network and Swin Transformer <br><sup><sub>Kyeong-Beom Park, Jae Yeol Lee</sub></sup> | [Paper](https://academic.oup.com/jcde/article/9/2/616/6564811?login=false)/Code/Seg-Maps
+| 2022 | AMNet | CBM | Attention based multi-scale parallel network for polyp segmentation<br><sup><sub>Pengfei Song, Jinjiang Li, Hui Fan</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0010482522002682)/Code/Seg-Maps
+| 2022 | PolypSeg+ | IEEE TC | PolypSeg+: A Lightweight Context-Aware Network for Real-Time Polyp Segmentation<br><sup><sub>Huisi Wu; Zebin Zhao; Jiafu Zhong; Wei Wang; Zhenkun Wen; Jing Qin</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/9756512)/[Code](https://github.com/szuzzb/polypsegplus)/Seg-Maps
+| 2022 | DBMF | CBM | DBMF: Dual Branch Multiscale Feature Fusion Network for polyp segmentation<br><sup><sub>Fangjin Liu, Zhen Hua, Jinjiang Li, Linwei Fan</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0010482522010125)/Code/Seg-Maps
+| 2022 | ACENet | CBM | Adaptive Context Exploration Network for Polyp Segmentation in Colonoscopy Images<br><sup><sub>Guanghui Yue, Siying Li, Tianwei Zhou, Miaohui Wang,Jingfeng Du,Qiuping Jiang,Wei Gao,Tianfu Wang,Jun Lv</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/9852746)/Code/Seg-Maps
+| 2022 | MIA-Net | KBS | MIA-Net: Multi-information aggregation network combining transformers and convolutional feature learning for polyp segmentation<br><sup><sub>Weisheng Li, Yinghui Zhao, Feiyan Li, Linhong Wang</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122003926)/Code/Seg-Maps	
+| 2022 | FAPN | BSPC | FAPN: Feature Augmented Pyramid Network for polyp segmentation<br><sup><sub>Yanzhou Su, Jian Cheng, Murong Yi, Haijun Liu</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S1746809422004074)/Code/Seg-Maps	
 
 
 ####  2.2.3. YEAR 2021
@@ -123,7 +141,6 @@ This awesome list is under construction. If you have anything to recommend or an
 | 2021 | MSNet | MICCAI | Automatic Polyp Segmentation via Multi-scale Subtraction Network <br><sup><sub>*Xiaoqi Zhao, Lihe Zhang, Huchuan Lu*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_12)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/MSNet-M2SNet)/Seg-Maps	
 | 2021 | CCBANet | MICCAI | CCBANet: Cascading Context and Balancing Attention for Polyp Segmentation <br><sup><sub>*Tan-Cong Nguyen, Tien-Phat Nguyen, Gia-Han Diep, Anh-Huy Tran-Dinh, Tam V. Nguyen, Minh-Triet Tran*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_60)/[Code](https://github.com/ntcongvn/CCBANet)/Seg-Maps	
 | 2021 | HRENet | MICCAI | HRENet: A Hard Region Enhancement Network for Polyp Segmentation <br><sup><sub>*Yutian Shen, Xiao Jia, Max Q.-H. Meng</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_53)/[Code](https://github.com/CathySH/HRENet)/Seg-Maps	
-| 2021 | PNS-Net | MICCAI | Progressively Normalized Self-Attention Network for Video Polyp Segmentation <br><sup><sub>*Ge-Peng Ji, Yu-Cheng Chou, Deng-Ping Fan, Geng Chen, Huazhu Fu, Debesh Jha, Ling Shao</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14)/[Code](http://dpfan.net/pnsnet/)/Seg-Maps
 | 2021 | LOD-Net | MICCAI | Learnable Oriented-Derivative Network for Polyp Segmentation <br><sup><sub>*Mengjun Cheng, Zishang Kong, Guoli Song, Yonghong Tian, Yongsheng Liang, Jie Chen*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_68)/[Code](https://github.com/midsdsy/LOD-Net)/Seg-Maps	
 | 2021 | STFT | MICCAI | Multi-frame Collaboration for Effective Endoscopic Video Polyp Detection via Spatial-Temporal Feature Transformation <br><sup><sub>*Lingyun Wu, Zhiqiang Hu, Yuanfeng Ji, Ping Luo, Shaoting Zhang*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_29)/[Code](https://github.com/lingyunwu14/STFT)/Seg-Maps	
 | 2021 | SANet | MICCAI | Shallow Attention Network for Polyp Segmentation <br><sup><sub>*Jun Wei, Yiwen Hu, Ruimao Zhang, Zhen Li, S. Kevin Zhou, Shuguang Cui*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_66)/[Code](https://github.com/weijun88/sanet)/Seg-Maps
@@ -139,6 +156,10 @@ This awesome list is under construction. If you have anything to recommend or an
 | 2021 | HarDNet-MSEG | Arxiv | HarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS <br><sup><sub>*Chien-Hsiang Huang, Hung-Yu Wu, Youn-Long Lin*</sub></sup> | [Paper](https://arxiv.org/abs/2101.07172)/[Code](https://github.com/james128333/HarDNet-MSEG)/Seg-Maps
 | 2021 | CaraNet | Arxiv | CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects <br><sup><sub>*Ange Lou, Shuyue Guan, Hanseok Ko, Murray Loew*</sub></sup> | [Paper](https://arxiv.org/ftp/arxiv/papers/2108/2108.07368.pdf)/[Code](https://github.com/AngeLouCN/CaraNet)/Seg-Maps
 | 2021 | GMSRF-Net | Arxiv | GMSRF-Net: An improved generalizability with global multi-scale residual fusion network for polyp segmentation <br><sup><sub>*Abhishek Srivastava, Sukalpa Chanda, Debesh Jha, Umapada Pal, Sharib Ali*</sub></sup> | [Paper](https://arxiv.org/pdf/2111.10614v1.pdf)/[Code](https://github.com/NoviceMAn-prog/GMSRFNet)/Seg-Maps
+| 2021 | DDANet | PR | DDANet: Dual Decoder Attention Network for Automatic Polyp Segmentation <br><sup><sub>Nikhil Kumar Tomar, Debesh Jha, Sharib Ali, Håvard D. Johansen, Dag Johansen, Michael A. Riegler & Pål Halvorsen </sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68793-9_23)/[Code](https://github.com/nikhilroxtomar/DDANet)/Seg-Maps
+| 2021 | Focus U-Net | CBM | Focus U-Net: A novel dual attention-gated CNN for polyp segmentation during colonoscopy <br><sup><sub>Michael Yeung, Evis Sala, Carola-Bibiane Schönlieb, Leonardo Rundo</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0010482521006090)/Code/Seg-Maps
+| 2021 | NeoUNet | AC | NeoUNet : Towards Accurate Colon Polyp Segmentation and Neoplasm Detection<br><sup><sub>Phan Ngoc Lan, Nguyen Sy An, Dao Viet Hang, Dao Van Long, Tran Quang Trung, Nguyen Thi Thuy & Dinh Viet Sang</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_2)/Code/Seg-Maps
+| 2021 | unnamed | PR | Double Encoder-Decoder Networks for Gastrointestinal Polyp Segmentation<br><sup><sub>Adrian Galdran, Gustavo Carneiro,Miguel A. González Ballester</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-68763-2_22)/Code/Seg-Maps
 	
 ####  2.2.4. Before YEAR 2021 
 
@@ -157,6 +178,12 @@ This awesome list is under construction. If you have anything to recommend or an
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |	
 | 2023 | ESFPNet | Medical Imaging 2023: Biomedical Applications in Molecular, Structural, and Functional Imaging | ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video <br><sup><sub>*Qi Chang, Danish Ahmad, Jennifer Toth, Rebecca Bascom, William E. Higgins*</sub></sup> | [Paper](https://arxiv.org/pdf/2207.07759v3.pdf)/[Code](https://github.com/dumyCq/ESFPNet)/Seg-Maps
-| 2020 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)
-
+| 2022 | PNS+ | MIR | Video Polyp Segmentation: A Deep Learning Perspective<br><sup><sub>Ge-Peng Ji, Guobao Xiao, Yu-Cheng Chou, Deng-Ping Fan, Kai Zhao, Geng Chen & Luc Van Gool</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y)/[Code](https://github.com/GewelsJI/VPS)/Seg-Maps
+| 2022 | SSTAN(Semi-Supervised) | MICCAI | Semi-supervised Spatial Temporal Attention Network for Video Polyp Segmentation <br><sup><sub>*Xinkai Zhao1, Zhenhua Wu, Shuangyi Tan, De-Jun Fan, Zhen Li, Xiang Wan, Guanbin Li*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_44)/[Code](https://github.com/ShinkaiZ/SSTAN)/Seg-Maps
+| 2021 | PNS-Net | MICCAI | Progressively Normalized Self-Attention Network for Video Polyp Segmentation <br><sup><sub>*Ge-Peng Ji, Yu-Cheng Chou, Deng-Ping Fan, Geng Chen, Huazhu Fu, Debesh Jha, Ling Shao</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_14)/[Code](http://dpfan.net/pnsnet/)/Seg-Maps
+| 2021 | ConvNet | Proceedings of the AAAI Conference on Artificial Intelligence | Precise Yet Efficient Semantic Calibration and Refinement in ConvNets for Real-time Polyp Segmentation from Colonoscopy Videos<br><sup><sub>Huisi Wu,Jiafu Zhong,Wei Wang,Zhenkun Wen,Jing Qin</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16398)/[Code](https://github.com/jiafuz/SCR-Net)/Seg-Maps
+| 2021 | NanoNet | CBMS | NanoNet: Real-Time Polyp Segmentation in Video Capsule Endoscopy and Colonoscopy<br><sup><sub>Debesh Jha; Nikhil Kumar Tomar; Sharib Ali; Michael A. Riegler; Håvard D. Johansen; Dag Johansen; Thomas de Lange; Pål Halvorsen</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/9474743)/[Code](https://github.com/DebeshJha/NanoNet)/Seg-Maps
+| 2020 | PraNet | MICCAI | PraNet: Parallel Reverse Attention Network for Polyp Segmentation <br><sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Tao Zhou, Geng Chen, Huazhu Fu, Jianbing Shen, Ling Shao*</sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_26)/[Code](https://github.com/DengPingFan/PraNet)/Seg-Maps
+| 2020 | MAT | IEEE TIP | MATNet: Motion-Attentive Transition Network for Zero-Shot Video Object Segmentation<br><sup><sub>Tianfei Zhou; Jianwu Li; Shunzhou Wang;Ran Tao;Jianbing Shen</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/9165947)/[Code](https://github.com/tfzhou/MATNet)/Seg-Maps
+| 2019 | COSNet | CVPR2019 | See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks <br><sup><sub>Xiankai Lu, Wenguan Wang, Chao Ma, Jianbing Shen, Ling Shao, Fatih Porikli</sub></sup> | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Lu_See_More_Know_More_Unsupervised_Video_Object_Segmentation_With_Co-Attention_CVPR_2019_paper.html)/[Code](https://github.com/DengPingFan/PraNet)/Seg-Maps
 
