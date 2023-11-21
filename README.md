@@ -49,6 +49,7 @@ This awesome list is under construction. If you have anything to recommend or an
 [CVC-300](https://github.com/jbernoz/deeppolyp) | 2017 |JHE | [Paper](https://www.hindawi.com/journals/jhe/2017/4037190/)|
 [CVC-EndoSceneStill](https://pages.cvc.uab.es/CVC-Colon/index.php/databases/cvc-endoscenestill/)| 2017 |JHE | [Paper](https://www.hindawi.com/journals/jhe/2017/4037190/)|
 [Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)| 2020 | MMM | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-37734-2_37)|
+[PICCOLO](https://www.biobancovasco.bioef.eus/en/Sample-and-data-catalog/Databases/PD178-PICCOLO-EN.html)| 2020 | AS | [Paper](https://www.mdpi.com/2076-3417/10/23/8501)|
 [PolypGen](https://github.com/sharib-vision/PolypGen-Benchmark) | 2021 | SCI DATA | [Paper](https://arxiv.org/abs/2106.04463) |
 
 
@@ -56,8 +57,9 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Dataset Name** | **Year** | **Publication** | **Links** |
 | :------: | :------: | :-------: | :---------|
-[CVC-ClinicVideoDB](https://endovissub2017-giana.grand-challenge.org/) | 2017 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
 [ASU-Mayo Clinic Colonoscopy Video](https://polyp.grand-challenge.org/AsuMayo/) | 2016 | TMI | [Paper](https://ieeexplore.ieee.org/abstract/document/7294676)
+[CVC-ClinicVideoDB](https://endovissub2017-giana.grand-challenge.org/) | 2017 | CMIG | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611115000567) |
+[LDPolypVideo](https://github.com/dashishi/LDPolypVideo-Benchmark) | 2021 | MICCAI | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_37) 
 [Kvasir-capsule](https://github.com/simula/kvasir-capsule)|2021| Sci Data |[Paper](https://www.nature.com/articles/s41597-021-00920-z)
 [SUN-SEG](https://github.com/GewelsJI/VPS)| 2022 | MIR | [Paper](https://link.springer.com/article/10.1007/s11633-022-1371-y)|
 
