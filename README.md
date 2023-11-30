@@ -33,9 +33,8 @@ This awesome list is under construction. If you have anything to recommend or an
 			- [2.2.4. Before YEAR 2020](#224-before-year-2020)
      
 		- [2.3. Semi-/Weakly-supervised Polyp Segmentation](#23-semi-polyp--segmentation)
-    
-                        - [2.3.1. Semi-supervised]
-                        - [2.3.2. Weakly-supervised]
+                        - [2.3.1. Semi-supervised](#231-Semi-supervised)
+                        - [2.3.2. Weakly-supervised](#232-Weakly-supervised)
     
 		- [2.4. Video Polyp Segmentation](#24-video-polyp-segmentation)
 		
