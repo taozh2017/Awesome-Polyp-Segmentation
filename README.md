@@ -14,7 +14,7 @@ Will collect polyp segmentastion models.
 
 This awesome list is under construction. If you have anything to recommend or any suggestions, please feel free to contact us via e-mail (taozhou.ai@gmail) or directly push a PR. 
 
-< **Last updated: 15/04/2024** >
+< **Last updated: 25/06/2024** >
 
 
 ##  1. Content
@@ -24,9 +24,9 @@ This awesome list is under construction. If you have anything to recommend or an
 	- [1. Content](#1-content)
 	- [2. Paper List](#2-paper-list)
 		- [2.1. Datasets \& Benchmarks](#21-datasets--benchmarks)
-			- [2.1.1. Image-level Polyp](#211-video-level-polyp)
-			- [2.1.2. Video-level Polyp](#212-image-level-polyp)
-		- [2.2. Fully-supervised Polyp Segmentation](#22-polyp--segmentation) 
+			- [2.1.1. Image-level Polyp](#211-image-level-polyp-segmentation)
+			- [2.1.2. Video-level Polyp](#212-video-level-polyp-segmentation)
+		- [2.2. Fully-supervised Polyp Segmentation](#22-polyp-segmentation) 
 			- [2.2.1. YEAR 2024](#221-year-2024)
 			- [2.2.2. YEAR 2023](#222-year-2023)
 			- [2.2.3. YEAR 2022](#223-year-2022)
@@ -74,6 +74,8 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024 | ControlPolypNet | CVPR | ControlPolypNet: Towards Controlled Colon Polyp Synthesis for Improved Polyp Segmentation <br><sup><sub>Vanshali Sharma; Abhishek Kumar; Debesh Jha; M.K. Bhuyan; Pradip K. Das; Ulas Bagci </sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/DCAMI/html/Sharma_ControlPolypNet_Towards_Controlled_Colon_Polyp_Synthesis_for_Improved_Polyp_Segmentation_CVPRW_2024_paper.html)/Code
+| 2024 | unnamed | BMEL | Cross-domain additive learning of new knowledge rather than replacement <br><sup><sub>Jiahao Liu; Ge Jiao </sub></sup> | [Paper](https://link.springer.com/article/10.1007/s13534-024-00399-8#Abs1)/Code
 | 2024 | PP-SAM | Arxiv | PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation <br><sup><sub>Mostafijur Rahman, Md ; Munir, Mustafa ; Jha, Debesh ; Bagci, Ulas ; Marculescu, Radu </sub></sup> | [Paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240516740M/abstract)/[Code](https://github.com/SLDGroup/PP-SAM)
 | 2024 | PFMNet | CMIG | PFMNet: Prototype-based feature mapping network for few-shot domain adaptation in medical image segmentation <br><sup><sub>Runze Wang; Guoyan Zheng</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/pii/S0895611124000831)/Code
 | 2024 | LightCF-Net | Bioengineering | LightCF-Net: A Lightweight Long-Range Context Fusion Network for Real-Time Polyp Segmentation <br><sup><sub>Zhanlin Ji;Xiaoyu Li; Jianuo Liu; Rui Chen; Qinping Liao; Tao Lyu; Li Zhao</sub></sup> | [Paper](https://www.mdpi.com/2306-5354/11/6/545)/Code
@@ -144,6 +146,7 @@ This awesome list is under construction. If you have anything to recommend or an
 
 | **Year** | **Model** | **Publication** | **Title**                                 |  **Links**                                                    |
 | :------: | :------: |:------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2022 | Polyp2Seg | LNCS | Polyp2Seg: Improved Polyp Segmentation with Vision Transformer <br><sup><sub>Vittorino Mandujano-Cornejo;Javier A. Montoya-Zegarra </sub></sup> | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-12053-4_39)/Code
 | 2022 | BSCA-Net | PR | BSCA-Net: Bit Slicing Context Attention Network for Polyp Segmentation <br><sup><sub>*Yi Lin, Jichun Wu, Guobao Xiao, Junwen Guo, Geng Chen, Jiayi Ma*</sub></sup> | [Paper](https://guobaoxiao.github.io/papers/PR_2022_BSCA.pdf)/Code	
 | 2022 | TRFRNet(UDA) | MICCAI | Task-Relevant Feature Replenishment for Cross-Centre Polyp Segmentation <br><sup><sub>*Yutian Shen, Ye Lu, Xiao Jia, Fan Bai, Max Q.-H. Meng*</sub></sup> | [Paper](https://link.springer.com/10.1007/978-3-031-16440-8_57)/[Code](https://github.com/CathyS1996/TRFRNet)	
 | 2022 | TGANet| MICCAI | TGANet: Text-guided attention for improved polyp segmentation <br><sup><sub>*Nikhil Kumar Tomar, Debesh Jha, Ulas Bagci, Sharib Ali*</sub></sup> | [Paper](https://arxiv.org/pdf/2205.04280v1.pdf)/[Code](https://github.com/nikhilroxtomar/tganet)
