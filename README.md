@@ -246,5 +246,5 @@ This awesome list is under construction. If you have anything to recommend or an
 
 We have collected segmentation results from some representative polyp segmentation models and evaluated the results based on the performance metrics of [PraNet](https://github.com/DengPingFan/PraNet/tree/master/eval). You can download them through Google Drive.
 
-Segmentation Maps: [Google Drive]()
+Segmentation Maps: [Google Drive](https://drive.google.com/drive/folders/1qhpDv0BWFAkutZuhsdN9vA6mUYUSnABv?usp=drive_link)
 
